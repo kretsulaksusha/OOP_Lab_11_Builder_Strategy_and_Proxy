@@ -36,5 +36,6 @@ public class MailBox {
             }
         }
         mailInfos.clear();
+        System.out.println("The message was sent successfully!");
     }
 }
